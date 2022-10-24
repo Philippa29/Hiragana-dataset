@@ -22,7 +22,7 @@ System Requirements, please have these installed:
 When you want to create a character please make sure that folder for it exists in the folder named "dataset". 
 In the individual files of the characters you can call the functions for the manipulations and alter the degree of manpilation to your liking. 
 
-The original unmanoulated pictures are in the folder named "pictures" and numbered test_0 to test_37. 
+The original pictures are in the folder named "pictures" and numbered test_0 to test_37. 
 To add more fonts name them the same and change the loop number in the for loops. 
 
 I do hope this dataset helps you to create and develop further into the Japanese Language. 
