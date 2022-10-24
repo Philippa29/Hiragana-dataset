@@ -15,9 +15,8 @@ System Requirements, please have these installed:
   <li>PIL</li>
   <li>tensorflow</li>
   <li>numpy</li>
-  <li> tensorflow.keras.preprocessing.image <li>
-  <li> matplotlib <li> 
-  <li> cv2 <li> 
+  <li>tensorflow.keras.preprocessing.image<li>
+  <li>tensorflow.keras.preprocessing.image<li>
 </ol>
 
 When you want to create a character please make sure that folder for it exists in the folder named "dataset". 
@@ -25,5 +24,9 @@ In the individual files of the characters you can call the functions for the man
 
 I do hope this dataset helps you to create and develop further into the Japanese Language. 
 It was an honour to contribute to the AI commmunity. 
+
+Report:
+[Report.pdf](https://github.com/Philippa29/Hiragana-dataset/files/9848161/Report.pdf)
+
 
 ![image](https://user-images.githubusercontent.com/68788485/192846302-17fca532-4e69-448f-bf51-198538a27f79.png)
