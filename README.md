@@ -6,21 +6,24 @@ I would like to thank my team (Bug Slayers) and University of Pretoria especiall
 Now onto the dataset. 
 
 The dataset is split into training and testing. 
-In the end you will have training = 28500 and testing = 10450. 
-please refer to the report as to which manipulations are used to make the dataset. 
+In the end you will have training 28500 pictures and testing 10450 pictures.
+Refer to the report as to which manipulations are used to make the dataset. 
 
-System Requirements, please have these installed: 
-<ol>
-  <li>Python 3</li>
-  <li>PIL</li>
-  <li>tensorflow</li>
-  <li>numpy</li>
-  <li>tensorflow.keras.preprocessing.image<li>
-  <li>tensorflow.keras.preprocessing.image<li>
-</ol>
+System Requirements, please have these installed:
+* Python 3
+* PIL
+* Tensorflow 
+* Numpy 
+* Tensorflow.keras.preprocessing.image 
+* Matplotlib 
+* Cv2  
+
 
 When you want to create a character please make sure that folder for it exists in the folder named "dataset". 
 In the individual files of the characters you can call the functions for the manipulations and alter the degree of manpilation to your liking. 
+
+The original unmanoulated pictures are in the folder named "pictures" and numbered test_0 to test_37. 
+To add more fonts name them the same and change the loop number in the for loops. 
 
 I do hope this dataset helps you to create and develop further into the Japanese Language. 
 It was an honour to contribute to the AI commmunity. 
